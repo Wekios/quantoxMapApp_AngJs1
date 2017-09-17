@@ -1,0 +1,28 @@
+{
+  "name": "quantox-app",
+  "version": "1.0.0",
+  "author": "Veljko Blagojevic",
+  "description": "navigation for pickle RIiiiIIIIiiiick",
+  "repository": {
+    "type": "git",
+    "url": "Pickle RIiiiIIIIiiiick"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "systemjs": "0.19.27",
+    "core-js": "2.4.1",
+    "reflect-metadata": "0.1.3",
+    "rxjs": "5.0.0-beta.12",
+    "zone.js": "0.6.23"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "@types/node": "^6.0.41",
+    "concurrently": "2.2.0",
+    "lite-server": "2.2.2",
+    "rimraf": "2.5.4",
+    "typescript": "2.0.2"
+  }
+}
